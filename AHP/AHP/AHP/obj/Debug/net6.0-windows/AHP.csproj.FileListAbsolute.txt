@@ -1,0 +1,56 @@
+E:\Documents\C_sharp\AHP\AHP\bin\Debug\net6.0-windows\AHP.exe
+E:\Documents\C_sharp\AHP\AHP\bin\Debug\net6.0-windows\AHP.deps.json
+E:\Documents\C_sharp\AHP\AHP\bin\Debug\net6.0-windows\AHP.runtimeconfig.json
+E:\Documents\C_sharp\AHP\AHP\bin\Debug\net6.0-windows\AHP.dll
+E:\Documents\C_sharp\AHP\AHP\bin\Debug\net6.0-windows\AHP.pdb
+E:\Documents\C_sharp\AHP\AHP\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+E:\Documents\C_sharp\AHP\AHP\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+E:\Documents\C_sharp\AHP\AHP\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+E:\Documents\C_sharp\AHP\AHP\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+E:\Documents\C_sharp\AHP\AHP\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Documents\C_sharp\AHP\AHP\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Documents\C_sharp\AHP\AHP\obj\Debug\net6.0-windows\AHP.csproj.AssemblyReference.cache
+E:\Documents\C_sharp\AHP\AHP\obj\Debug\net6.0-windows\AHP.Form1.resources
+E:\Documents\C_sharp\AHP\AHP\obj\Debug\net6.0-windows\AHP.GiamKhao_Frm.resources
+E:\Documents\C_sharp\AHP\AHP\obj\Debug\net6.0-windows\AHP.main.resources
+E:\Documents\C_sharp\AHP\AHP\obj\Debug\net6.0-windows\AHP.NhanSu_Frm.resources
+E:\Documents\C_sharp\AHP\AHP\obj\Debug\net6.0-windows\AHP.Properties.Resources.resources
+E:\Documents\C_sharp\AHP\AHP\obj\Debug\net6.0-windows\AHP.csproj.GenerateResource.cache
+E:\Documents\C_sharp\AHP\AHP\obj\Debug\net6.0-windows\AHP.GeneratedMSBuildEditorConfig.editorconfig
+E:\Documents\C_sharp\AHP\AHP\obj\Debug\net6.0-windows\AHP.AssemblyInfoInputs.cache
+E:\Documents\C_sharp\AHP\AHP\obj\Debug\net6.0-windows\AHP.AssemblyInfo.cs
+E:\Documents\C_sharp\AHP\AHP\obj\Debug\net6.0-windows\AHP.csproj.CoreCompileInputs.cache
+E:\Documents\C_sharp\AHP\AHP\obj\Debug\net6.0-windows\AHP.csproj.CopyComplete
+E:\Documents\C_sharp\AHP\AHP\obj\Debug\net6.0-windows\AHP.dll
+E:\Documents\C_sharp\AHP\AHP\obj\Debug\net6.0-windows\refint\AHP.dll
+E:\Documents\C_sharp\AHP\AHP\obj\Debug\net6.0-windows\AHP.pdb
+E:\Documents\C_sharp\AHP\AHP\obj\Debug\net6.0-windows\AHP.genruntimeconfig.cache
+E:\Documents\C_sharp\AHP\AHP\obj\Debug\net6.0-windows\ref\AHP.dll
+C:\Users\Toan Minh\Desktop\AHP\AHP\AHP\bin\Debug\net6.0-windows\AHP.exe
+C:\Users\Toan Minh\Desktop\AHP\AHP\AHP\bin\Debug\net6.0-windows\AHP.dll
+C:\Users\Toan Minh\Desktop\AHP\AHP\AHP\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Toan Minh\Desktop\AHP\AHP\AHP\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Toan Minh\Desktop\AHP\AHP\AHP\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\Toan Minh\Desktop\AHP\AHP\AHP\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Toan Minh\Desktop\AHP\AHP\AHP\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Toan Minh\Desktop\AHP\AHP\AHP\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Toan Minh\Desktop\AHP\AHP\AHP\obj\Debug\net6.0-windows\AHP.csproj.AssemblyReference.cache
+C:\Users\Toan Minh\Desktop\AHP\AHP\AHP\obj\Debug\net6.0-windows\AHP.Form1.resources
+C:\Users\Toan Minh\Desktop\AHP\AHP\AHP\obj\Debug\net6.0-windows\AHP.GiamKhao_Frm.resources
+C:\Users\Toan Minh\Desktop\AHP\AHP\AHP\obj\Debug\net6.0-windows\AHP.main.resources
+C:\Users\Toan Minh\Desktop\AHP\AHP\AHP\obj\Debug\net6.0-windows\AHP.NhanSu_Frm.resources
+C:\Users\Toan Minh\Desktop\AHP\AHP\AHP\obj\Debug\net6.0-windows\AHP.Properties.Resources.resources
+C:\Users\Toan Minh\Desktop\AHP\AHP\AHP\obj\Debug\net6.0-windows\AHP.csproj.GenerateResource.cache
+C:\Users\Toan Minh\Desktop\AHP\AHP\AHP\obj\Debug\net6.0-windows\AHP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Toan Minh\Desktop\AHP\AHP\AHP\obj\Debug\net6.0-windows\AHP.AssemblyInfoInputs.cache
+C:\Users\Toan Minh\Desktop\AHP\AHP\AHP\obj\Debug\net6.0-windows\AHP.AssemblyInfo.cs
+C:\Users\Toan Minh\Desktop\AHP\AHP\AHP\obj\Debug\net6.0-windows\AHP.csproj.CoreCompileInputs.cache
+C:\Users\Toan Minh\Desktop\AHP\AHP\AHP\obj\Debug\net6.0-windows\AHP.csproj.CopyComplete
+C:\Users\Toan Minh\Desktop\AHP\AHP\AHP\obj\Debug\net6.0-windows\AHP.dll
+C:\Users\Toan Minh\Desktop\AHP\AHP\AHP\obj\Debug\net6.0-windows\refint\AHP.dll
+C:\Users\Toan Minh\Desktop\AHP\AHP\AHP\obj\Debug\net6.0-windows\AHP.pdb
+C:\Users\Toan Minh\Desktop\AHP\AHP\AHP\bin\Debug\net6.0-windows\AHP.deps.json
+C:\Users\Toan Minh\Desktop\AHP\AHP\AHP\bin\Debug\net6.0-windows\AHP.runtimeconfig.json
+C:\Users\Toan Minh\Desktop\AHP\AHP\AHP\bin\Debug\net6.0-windows\AHP.pdb
+C:\Users\Toan Minh\Desktop\AHP\AHP\AHP\obj\Debug\net6.0-windows\AHP.genruntimeconfig.cache
+C:\Users\Toan Minh\Desktop\AHP\AHP\AHP\obj\Debug\net6.0-windows\ref\AHP.dll
